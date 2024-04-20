@@ -7,5 +7,6 @@ public class HelloGit {
         System.out.println("xixixi");
         System.out.println("xixixi 12 18 36");
         System.out.println("xixixi 12 18 36 master test");
+        System.out.println("xixixi 12 18 36 push test");
     }
 }
